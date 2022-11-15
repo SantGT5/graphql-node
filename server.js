@@ -11,7 +11,7 @@ const schema = buildSchema(`
 `);
 
 const root = {
-  description: 'Red Shoe',
+  description: "Red Shoe",
   price: 42.12,
 };
 
